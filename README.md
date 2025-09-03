@@ -1,2 +1,2 @@
-# Volunteer-Management-System
-A role-based volunteer management platform built with PHP, MySQL, and CSS. It features secure logins, time slot scheduling, age-restricted task assignments, event duration control, and activity logging—designed for organisers and volunteers to coordinate efficiently.
+# IWD Forum
+A secure, user-driven online discussion platform built from the ground up using PHP and MySQL. Designed with both functionality and user experience in mind, it supports user registration, thread creation, replies, search, and admin-level moderation. 
